@@ -1,0 +1,13 @@
+{
+    "name": "root/test",
+    "description": "monolog/monolog test",
+    "authors": [
+        {
+            "name": "stanislavashykhmin",
+            "email": "stanislavashykhmin@example.com"
+        }
+    ],
+    "require": {"monolog/monolog": "^1.23",
+		"involvedpanda/comptrain": "dev-master"
+		}
+}
